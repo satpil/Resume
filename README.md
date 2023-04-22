@@ -1,6 +1,8 @@
 # My Resume
 
-This is my awesome project. Here's a screenshot of the application:
+This is my Reeume:
 
 ![Resume](./resume1.jpg)
+![Resume](./resume2.jpg)
+
 
